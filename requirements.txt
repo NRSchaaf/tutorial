@@ -2,4 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
--e .
+scikit-learn
+catboost
+xgboost
+-e .  # toggle on and off as you install packages as to avoid recreating the entire file set.
